@@ -140,3 +140,5 @@ jackie/jackie123
 john/john123
 
 _Note that after logging in, you need to refresh on the other brokers to see the effect._
+
+这是一个非常好用的单点登录解决方案，实现了类似淘宝、天猫、支付宝只要任意登录一个系统，其他系统也自动登录，无封切换。账号统一管理，大大改善用户体验，使用PHP语言开发单点登录系统的首选。
